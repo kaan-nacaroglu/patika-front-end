@@ -1,0 +1,33 @@
+body{
+    background-color: #F0ECE3;
+}
+h1,h2,h3,h4,h5,h6{
+    color: #C7B198;
+    text-align: center;
+}
+article{text-align: center;
+}
+
+ul{
+    list-style-position: inside;
+    list-style-type: none;
+}
+header{
+    text-align: center;
+}
+
+header > a{
+    color: #A68DAD;
+}
+
+.scroll-top-button{
+    background-color: #D67D3E;
+}
+
+img{
+    height: auto;   
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
